@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="yangDDD-api:war">
+    <output-path>$PROJECT_DIR$/yangDDD-api/target</output-path>
+    <root id="archive" name="yangDDD-api.war">
+      <element id="artifact" artifact-name="yangDDD-api:war exploded" />
+    </root>
+  </artifact>
+</component>

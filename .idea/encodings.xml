@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yangDDD-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yangDDD-application" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yangDDD-domain" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yangDDD-model" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yangDDD-repository" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yangDDD-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/yhbLibrary" charset="UTF-8" />
+  </component>
+</project>

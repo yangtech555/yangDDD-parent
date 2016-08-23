@@ -1,0 +1,36 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="yangDDD-api:war exploded">
+    <output-path>$PROJECT_DIR$/yangDDD-api/target/yangDDD-api</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="yangDDD-api" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="yangDDD-application-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="yangDDD-application" />
+          </element>
+          <element id="archive" name="yangDDD-service-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="yangDDD-service" />
+          </element>
+          <element id="archive" name="yangDDD-repository-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="yangDDD-repository" />
+          </element>
+          <element id="archive" name="yangDDD-domain-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="yangDDD-domain" />
+          </element>
+          <element id="archive" name="yhbLibrary-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="yhbLibrary" />
+          </element>
+          <element id="archive" name="yangDDD-model-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="yangDDD-model" />
+          </element>
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/yangDDD-api/target/yangDDD-api/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="yangDDD-api/web/Web" />
+    </root>
+  </artifact>
+</component>
